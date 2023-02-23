@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **devops and react**
 
-- 👨‍💻 You can see more about me at [https://gustavolisidias.herokuapp.com/](https://gustavolisidias.herokuapp.com/)
+- 👨‍💻 You can see more about me at [https://gustavolisidias.onrender.com](https://gustavolisidias.onrender.com)
 
 - 📫 How to reach me **gustavlisidias@gmail.com**
 
