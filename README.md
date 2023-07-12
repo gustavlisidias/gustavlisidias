@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **python, javascript and sql**
 
-- 🌱 I’m currently learning **devops and react**
+- 🌱 I’m currently learning **devops and angular**
 
 - 👨‍💻 You can see more about me at [https://gustavolisidias.onrender.com](https://gustavolisidias.onrender.com)
 
