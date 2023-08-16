@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **python, javascript and sql**
 
-- 🌱 I’m currently learning **devops and angular**
+- 🌱 I’m currently learning **Docker and RabbitMQ**
 
 - 👨‍💻 You can see more about me at [https://gustavolisidias.onrender.com](https://gustavolisidias.onrender.com)
 
