@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo Lisi Dias</h1>
 <h4 align="center">Work is more fun when you create it yourself</h4>
 
-- 💬 Ask me about **python, javascript and sql**
+- 💬 Ask me about **Python, C# and SQL**
 
-- 🌱 I’m currently learning **Docker and RabbitMQ**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 You can see more about me at [https://gustavolisidias.onrender.com](https://gustavolisidias.onrender.com)
 
